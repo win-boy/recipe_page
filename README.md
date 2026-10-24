@@ -38,5 +38,6 @@ I used ChatGPT as a learning assistant to help clarify HTML and CSS concepts and
 
 ## Author
 
-- GitHub - [@GodwinOkon112](https://github.com/GodwinOkon112)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- GitHub - [[@win-boy](https://github.com/win-boy)]
+  
+- Frontend Mentor - (https://www.frontendmentor.io/profile/win-boy)
